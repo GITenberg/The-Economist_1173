@@ -1,0 +1,41 @@
+_repo: The-Economist_1173
+_version: 0.0.1
+alternative_title: Oeconomicus. English
+contributor:
+  translator:
+    agent_name: Dakyns, Henry Graham
+    aliases:
+    - Dakyns, H. G. (Henry Graham)
+    - Dakyns, Henry G. (Henry Graham)
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '544'
+    url: http://www.gutenberg.org/2009/agents/544
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Graham_Dakyns
+creator:
+  author:
+    agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+description: ''
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- Economic conditions -- Early works to 1800'
+- !lcsh 'Classical literature'
+- !lcsh 'Dialogues, Greek -- Translations into English'
+- !lcsh 'Administration of estates -- Greece -- Early works to 1800'
+- !lcc 'PA'
+- GITenberg
+title: The Economist
+url: http://www.gutenberg.org/ebooks/1173
